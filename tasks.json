@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "taskTitle": "Finish ASP.NET Core tutorial",
+    "priority": 2,
+    "dueDate": "2026-11-05T18:00:00"
+  },
+  {
+    "id": 2,
+    "taskTitle": "Buy groceries",
+    "priority": 0,
+    "dueDate": "2026-11-06T12:00:00"
+  },
+  {
+    "id": 3,
+    "taskTitle": "Prepare weekly report",
+    "priority": 1,
+    "dueDate": "2026-11-08T09:30:00"
+  }
+]
+
